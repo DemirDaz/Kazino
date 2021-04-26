@@ -1,0 +1,10 @@
+C:\Users\38163\source\repos\Kazino\Kazino\bin\Debug\Kazino.exe.config
+C:\Users\38163\source\repos\Kazino\Kazino\bin\Debug\Kazino.exe
+C:\Users\38163\source\repos\Kazino\Kazino\bin\Debug\Kazino.pdb
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.csprojAssemblyReference.cache
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.Form1.resources
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.Form2.resources
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.Properties.Resources.resources
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.csproj.GenerateResource.cache
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.exe
+C:\Users\38163\source\repos\Kazino\Kazino\obj\Debug\Kazino.pdb
